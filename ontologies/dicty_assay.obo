@@ -304,10 +304,10 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-01-22T15:15:41Z
 
-[Term]
-id: DDASSAY:0000059
-name: differential interference contrast microscopy (DIC)
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
-created_by: pfey
-creation_date: 2014-01-28T16:04:02Z
+/*[Term]*/
+/*id: DDASSAY:0000059*/
+/*name: differential interference contrast microscopy (DIC)*/
+/*is_a: DDASSAY:0000001 ! Dictyostelium Assay*/
+/*created_by: pfey*/
+/*creation_date: 2014-01-28T16:04:02Z*/
 
