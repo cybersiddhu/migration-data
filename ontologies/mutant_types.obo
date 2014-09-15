@@ -123,9 +123,9 @@ name: overexpression
 def: "Any gene under a promoter that causes its expression to occur at higher levels than its endogenous promoter, or in different cell types, or under different conditions." [DDB:PF]
 is_a: PT:0000008 ! exogenous expression
 
-[Term]
-id: PT:0000019
-name: obsolete_null by substitution
-def: "A mutation in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence, resulting in the complete loss of function of that gene. " [DDB:PG]
-is_obsolete: true
+/*[Term]*/
+/*id: PT:0000019*/
+/*name: obsolete_null by substitution*/
+/*def: "A mutation in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence, resulting in the complete loss of function of that gene. " [DDB:PG]*/
+/*is_obsolete: true*/
 

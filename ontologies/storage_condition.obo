@@ -394,11 +394,11 @@ is_a: DDSTORCON:0000005 ! bacterial stock
 created_by: pfey
 creation_date: 2013-08-01T11:37:29Z
 
-[Term]
-id: DDSTORCON:0000050
-name: ES28
-def: "A plasmid stored or received in the bacterial host ES28." [DDB:pf]
-is_a: DDSTORCON:0000005 ! bacterial stock
-created_by: pfey
-creation_date: 2013-08-01T11:37:43Z
+/*[Term]*/
+/*id: DDSTORCON:0000050*/
+/*name: ES28*/
+/*def: "A plasmid stored or received in the bacterial host ES28." [DDB:pf]*/
+/*is_a: DDSTORCON:0000005 ! bacterial stock*/
+/*created_by: pfey*/
+/*creation_date: 2013-08-01T11:37:43Z*/
 
