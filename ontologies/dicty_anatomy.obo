@@ -1191,20 +1191,20 @@ def: "Anatomical structure that is an individual member of the Dictyostelium dis
 xref: CARO:0000012
 is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure
 
-[Term]
-id: DDANAT:0010085
-name: subdivision
-alt_id: DDANAT:0000085
-def: "Anatomical structure which is a primary subdivision of whole Dictyostelium organism. The mereological sum of these is the whole organism." [DDB:pg]
-xref: CARO:0000032
-is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure
+/*[Term]*/
+/*id: DDANAT:0010085*/
+/*name: subdivision*/
+/*alt_id: DDANAT:0000085*/
+/*def: "Anatomical structure which is a primary subdivision of whole Dictyostelium organism. The mereological sum of these is the whole organism." [DDB:pg]*/
+/*xref: CARO:0000032*/
+/*is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure*/
 
-[Typedef]
-id: develops_from
-name: develops_from
+/*[Typedef]*/
+/*id: develops_from*/
+/*name: develops_from*/
 
-[Typedef]
-id: part_of
-name: part of
-is_transitive: true
+/*[Typedef]*/
+/*id: part_of*/
+/*name: part of*/
+/*is_transitive: true*/
 
