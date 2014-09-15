@@ -6288,7 +6288,7 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 created_by: pfey
 creation_date: 2013-03-27T14:34:35Z
 
-/*[Term]*/
-/*id: DDPHENO:0010000*/
-/*name: Dicty Phenotypes*/
+[Term]
+id: DDPHENO:0010000
+name: Dicty Phenotypes
 
